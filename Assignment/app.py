@@ -36,7 +36,7 @@ with st.sidebar:
     lang = st.selectbox("Language", ["en", "de", "es", "fr", "cs", "pt"])
     blacklist = st.multiselect("Blacklist Flags", ["nsfw", "religious", "political", "racist", "sexist"])
     search_string = st.text_input("Search String")
-    return_headers = st.checkbox("Return Headers")
+    return_headers = st.checkbox("Return Headers (to see JSON)")
 
 # Button
 if st.button("Get Jokes"):
