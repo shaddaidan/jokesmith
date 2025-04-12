@@ -1,0 +1,2 @@
+Error fetching joke: 400 Client Error: Bad Request for url: https://v2.jokeapi.dev/joke/Spooky?amount=1&type=single&lang=en
+

@@ -1,0 +1,23 @@
+Write a Python script that pulls data from the APIs. Use Object-Oriented Programming 
+(OOP) principles to ensure your code is modular, reusable, and easy to maintain. Also,
+ use the last digit of the phone number you used to register during the orientation 
+ day to select the API project you are to work with. E.g. a phone number 08000340204 
+ would select the No.4 - CoinGecko Project. 
+
+ 
+If you fail to follow any of the instructions, it is as good as not doing the 
+assignment. Your assignment would be presented during this week’s Saturday’s class so
+ ensure you finish on time.
+
+5 - JokeAPI
+Random jokes
+https://v2.jokeapi.dev/
+
+
+
+---- formatted version of the task ---------
+generate an OOP code that would use a jokeapi to generate fetch jokes from the API
+provide options to format the joke you want fetch based on cetain parameters that you want.
+ability to save the joke and out in various formats. can be pdf or just output on screen
+deploy on streamlit. make look pretty.
+
